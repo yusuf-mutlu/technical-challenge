@@ -1,4 +1,4 @@
-# TECHNICAL CHALLENGE
+# UK Postcode Finder
 This is a Symfony 3.4 project which imports UK postcodes and their locations into a MySQL database.
 You can search UK postcodes through API and you can also find postcodes near a specified location (latitude / longitude).
 ## Installation
